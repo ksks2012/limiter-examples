@@ -12,6 +12,7 @@ require (
 	github.com/kataras/iris/v12 v12.2.0
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/gommon v0.3.0 // indirect
+	github.com/redis/go-redis/v9 v9.5.1
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644 // indirect
 	github.com/ulule/limiter/v3 v3.11.0
 	github.com/valyala/fasthttp v1.44.0

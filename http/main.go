@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	libredis "github.com/go-redis/redis/v8"
+	libredis "github.com/redis/go-redis/v9"
 
 	limiter "github.com/ulule/limiter/v3"
 	mhttp "github.com/ulule/limiter/v3/drivers/middleware/stdlib"
